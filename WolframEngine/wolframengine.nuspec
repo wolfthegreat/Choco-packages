@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>wolframengine</id>
+    <version>14.1.0</version>
+    <title>Wolfram Engine (Install)</title>
+    <authors>Wolfram Research</authors>
+    <projectUrl>https://www.wolfram.com/engine/</projectUrl>
+	<iconUrl>https://cdn.jsdelivr.net/gh/wolfthegreat/choco-packages@wolframengine/wolframengine.png</iconUrl>
+	<licenseUrl>https://www.wolfram.com/legal/terms/wolfram-engine.html</licenseUrl>
+    <tags>wolfram wolframengine wolfram-engine mathematica</tags>
+    <summary>Locally downloadable Wolfram Engine to add computational intelligence to pre-production software development.</summary>
+    <description>Basically a command-line (WolframScript) version of Wolfram Mathematica, free for testing purposes and can be run with GUI like [wolfram-js-frontend](https://github.com/JerryI/wolfram-js-frontend). Also can be integrated into C++, Java or Python program.</description>
+	<docsUrl>https://www.wolfram.com/engine/faq/</docsUrl>
+	<copyright>2024 Wolfram</copyright>
+	<packageSourceUrl>https://github.com/wolfthegreat/Choco-packages/tree/main/wolframengine</packageSourceUrl>
+  </metadata>
+</package>
